@@ -1,6 +1,7 @@
 # Blocking telemetry ip's via PI-Hole an Firewall
 # https://github.com/W4RH4WK/Debloat-Windows-10/blob/master/scripts/block-telemetry.ps1
 # <https://github.com/W4RH4WK/Debloat-Windows-10/>
+# Powershell Script execute file for Windows 10 1703 here https://github.com/hinzigers/script/tree/master/powershell/Window10Setup2K18
 # Thanks:
 # — 2015.00.00 — W4RH4WK
 # — 2019.02.13 — Hinzigers
