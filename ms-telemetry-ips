@@ -12,9 +12,9 @@ go.microsoft.com.edgekey.net
 # 2.22.61.43 Bad Request - AkamaiGHost
 # 2.22.61.66 Bad Request - AkamaiGHost
 # 204.79.197.200 Bad Request - Our services aren't available right now - 52.54.253.143 amazonaws
-ec2-52-54-253-143.compute-1.amazonaws.com
-23.218.212.69 
-65.39.117.230 
-65.52.108.33 
+ec2-52-54-253-143.compute-1.amazonaws.com # Amazon Cloud Services
+# 23.218.212.69 Bad Request - AkamaiGHost
+# 65.39.117.230 Invalid URL - NoIP
+# 65.52.108.33 404 not found
 65.55.108.23 
 64.4.54.254 
