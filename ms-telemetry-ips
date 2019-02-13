@@ -1,12 +1,13 @@
-# Disabling telemetry ip's via PI-Hole or uBlock
+# Blocking telemetry ip's via PI-Hole an Firewall
 # https://github.com/W4RH4WK/Debloat-Windows-10/blob/master/scripts/block-telemetry.ps1
 # <https://github.com/W4RH4WK/Debloat-Windows-10/>
 # Thanks:
 # — 2015.00.00 — W4RH4WK
 # — 2019.02.13 — Hinzigers
-134.170.30.202 
-137.116.81.24 
-157.56.106.189 
+windows.microsoft.com # 134.170.30.202
+go.microsoft.com.edgekey.net
+# 137.116.81.24 down
+# 157.56.106.189 Error 1003 Direct IP access not allowed - 104.31.74.222 Cloudflare 
 184.86.53.99 
 2.22.61.43 
 2.22.61.66 
