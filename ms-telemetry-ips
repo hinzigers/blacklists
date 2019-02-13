@@ -16,5 +16,5 @@ ec2-52-54-253-143.compute-1.amazonaws.com # Amazon Cloud Services
 # 23.218.212.69 Bad Request - AkamaiGHost
 # 65.39.117.230 Invalid URL - NoIP
 # 65.52.108.33 404 not found
-65.55.108.23 
-64.4.54.254 
+# 65.55.108.23 no Request
+# 64.4.54.254 no Request - 167.99.26.239 DigitalOcean - 52.54.253.143 ec2-52-54-253-143.compute-1.amazonaws.com
