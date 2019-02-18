@@ -4,7 +4,7 @@
 # Powershell Script execute file for Windows 10 1703 here https://github.com/hinzigers/script/tree/master/powershell/Window10Setup2K18
 # Thanks:
 # — 2015.00.00 — W4RH4WK
-# — 2019.02.13 — Hinzigers
+# — 2019.02.18 — Hinzigers
 windows.microsoft.com # 134.170.30.202
 go.microsoft.com.edgekey.net
 # 137.116.81.24 down
@@ -19,3 +19,4 @@ ec2-52-54-253-143.compute-1.amazonaws.com # Amazon Cloud Services
 # 65.52.108.33 404 not found
 # 65.55.108.23 no Request
 # 64.4.54.254 no Request - 167.99.26.239 DigitalOcean - 52.54.253.143 ec2-52-54-253-143.compute-1.amazonaws.com
+# 65.55.138.111 - sls.update.microsoft.com; sls.update.microsoft.com.akadns.net; sls.update.microsoft.com.nsatc.net
